@@ -5343,3 +5343,5 @@
 0.0.0.0	jsb99-normal-useast1a.tiktokv.com
 0.0.0.0	jsb100-normal-useast1a.tiktokv.com
 0.0.0.0	jsb101-normal-useast1a.tiktokv.com
+0.0.0.0	p16-sign.tiktokcdn-us.com
+0.0.0.0	tiktokcdn-us.com
