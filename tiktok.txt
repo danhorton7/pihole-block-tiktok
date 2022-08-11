@@ -207,8 +207,6 @@
 0.0.0.0	jsb16-normal-useast1a.tiktokv.com
 0.0.0.0	mon16-normal-useast1a.tiktokv.com
 0.0.0.0	mon19-normal-useast1a.tiktokv.com
-0.0.0.0	video-edge-c6cfac.lhr04.abs.hls.ttvnw.net
-0.0.0.0	video-weaver.lhr04.hls.ttvnw.net
 0.0.0.0	ugattribution-sg.tiktokv.com
 0.0.0.0	api16-normal-c-alisg.tiktokv.com
 0.0.0.0	api2-16-h2.musical.ly.edgekey.net
