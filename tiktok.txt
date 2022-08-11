@@ -3764,3 +3764,11 @@
 0.0.0.0	lf.snssdk.com.xi.zwtianshangm.com
 0.0.0.0	lf-hl.snssdk.com.xi.zwtianshangm.com
 0.0.0.0	mon.snssdk.com.xi.zwtianshangm.com
+0.0.0.0	v39-dynamic.service.lhr1.g.byteoversea.net
+0.0.0.0	1006686430.rsc.cdn77.org
+0.0.0.0	log22-normal-useast1a.tiktokv.com
+0.0.0.0	v39-dynamic-lhr1.tiktokcdn.com
+0.0.0.0	p77-sign-va-lite.tiktokcdn.com
+0.0.0.0	v39-eu.tiktokcdn.com
+0.0.0.0	mssdk16-normal-useast1a.tiktokv.com
+0.0.0.0	gecko16-normal-useast1a.tiktokv.com
