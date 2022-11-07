@@ -5943,3 +5943,4 @@
 0.0.0.0	bytefcdn-oversea.com
 0.0.0.0	pull-f5-sg01.ttlivecdn.com.c.worldfcdn.com
 0.0.0.0	1561539925.rsc.cdn77.org
+0.0.0.0	tnc16-useast1a.byteoversea.com
