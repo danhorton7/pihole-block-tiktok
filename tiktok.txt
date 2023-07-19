@@ -14,7 +14,6 @@
 0.0.0.0	47.252.102.50
 0.0.0.0	47.252.50.101
 0.0.0.0	47.252.50.157
-0.0.0.0	akamai.net
 0.0.0.0	api.tiktokv.com
 0.0.0.0	api21-h2.tiktokv.com
 0.0.0.0	api-h2.tiktokv.com
@@ -5944,3 +5943,5 @@
 0.0.0.0	pull-f5-sg01.ttlivecdn.com.c.worldfcdn.com
 0.0.0.0	1561539925.rsc.cdn77.org
 0.0.0.0	tnc16-useast1a.byteoversea.com
+0.0.0.0 tiktokcdn-us.com
+0.0.0.0 bytegecko-i18n.com
