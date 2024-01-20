@@ -5945,3 +5945,14 @@
 0.0.0.0	tnc16-useast1a.byteoversea.com
 0.0.0.0 tiktokcdn-us.com
 0.0.0.0 bytegecko-i18n.com
+0.0.0.0	v16-cla.tiktokcdn-us.com
+0.0.0.0	v45.tiktokcdn-us.com
+0.0.0.0	frontier-ttp2.us.tiktokv.com
+0.0.0.0	gecko16-normal-useast8.us.tiktokv.com
+0.0.0.0	bsync-ttp2.us.tiktokv.com
+0.0.0.0	v16m-default.tiktokcdn-us.com
+0.0.0.0	libra16-normal-useast8.us.tiktokv.com
+0.0.0.0	pitaya-ttp2.us.tiktokv.com
+0.0.0.0	webcast16-normal-useast8.us.tiktokv.com
+0.0.0.0	api16-core-useast8.us.tiktokv.com
+0.0.0.0	mssdk16-normal-useast8.us.tiktokv.com
