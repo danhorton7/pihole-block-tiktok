@@ -32,6 +32,7 @@
 0.0.0.0	tiktok.com
 0.0.0.0	tiktok.org
 0.0.0.0	tiktokcdn.com
+0.0.0.0 tiktokcdn-eu.com
 0.0.0.0	tiktokcdn-com.akamaized.net
 0.0.0.0	tiktokv.com
 0.0.0.0	v16.tiktokcdn.com
