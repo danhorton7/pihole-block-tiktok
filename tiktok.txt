@@ -6110,3 +6110,7 @@
 0.0.0.0	gecko31-normal-useast2a.tiktokv.com
 0.0.0.0	webcast16-ws-useast2a.tiktokv.com
 0.0.0.0	api.service.lhr3b.g.tiktokcdn-eu.net
+0.0.0.0 gecko16-normal-useast2a.tiktokv.com
+0.0.0.0 mssdk16-normal-useast2a.tiktokv.com
+0.0.0.0 bsync-i18n.tiktokv.com
+0.0.0.0 sf16-geckocdn.tiktokcdn.com
