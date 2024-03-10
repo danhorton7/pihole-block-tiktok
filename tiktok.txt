@@ -6114,3 +6114,4 @@
 0.0.0.0 mssdk16-normal-useast2a.tiktokv.com
 0.0.0.0 bsync-i18n.tiktokv.com
 0.0.0.0 sf16-geckocdn.tiktokcdn.com
+0.0.0.0 unknow.tiktokv.com
