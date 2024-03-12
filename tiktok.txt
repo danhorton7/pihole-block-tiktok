@@ -6115,3 +6115,5 @@
 0.0.0.0 bsync-i18n.tiktokv.com
 0.0.0.0 sf16-geckocdn.tiktokcdn.com
 0.0.0.0 unknow.tiktokv.com
+0.0.0.0 p16-pu-ie.tiktokcdn-eu.com
+0.0.0.0 bsync16-normal-useast2a.tiktokv.com
