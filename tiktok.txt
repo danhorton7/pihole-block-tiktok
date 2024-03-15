@@ -6117,3 +6117,5 @@
 0.0.0.0 unknow.tiktokv.com
 0.0.0.0 p16-pu-ie.tiktokcdn-eu.com
 0.0.0.0 bsync16-normal-useast2a.tiktokv.com
+0.0.0.0 libra16-normal-useast2a.tiktokv.com
+0.0.0.0 jsb16-normal-useast2a.tiktokv.com
