@@ -6229,3 +6229,5 @@
 0.0.0.0	api16-normal-useast2a.tiktokv.com
 0.0.0.0	pull-f5-tt01.tiktokcdn-us.com
 0.0.0.0	pull-flv-l77-tt02.eu.tiktokcdn.com
+0.0.0.0	starling.tiktokv.eu
+0.0.0.0	sf16-website-login.neutral.ttwstatic.com
