@@ -6119,3 +6119,9 @@
 0.0.0.0	bsync16-normal-useast2a.tiktokv.com
 0.0.0.0	libra16-normal-useast2a.tiktokv.com
 0.0.0.0	jsb16-normal-useast2a.tiktokv.com
+0.0.0.0	bsync22-normal-useast2a.tiktokv.com
+0.0.0.0	p19-pu-sign-ie.tiktokcdn-eu.com
+0.0.0.0	bsync31-normal-useast2a.tiktokv.com
+0.0.0.0	log19-normal-useast2a.tiktokv.com
+0.0.0.0	starling-i18n.tiktokv.com
+0.0.0.0	rtlog19-normal-useast2a.tiktokv.com
