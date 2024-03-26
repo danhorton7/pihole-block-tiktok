@@ -6231,3 +6231,10 @@
 0.0.0.0	pull-flv-l77-tt02.eu.tiktokcdn.com
 0.0.0.0	starling.tiktokv.eu
 0.0.0.0	sf16-website-login.neutral.ttwstatic.com
+0.0.0.0	p16-pu-sign-useast8.tiktokcdn-us.com
+0.0.0.0	mcs-va-useast2a.tiktokv.com.ttdns2.com
+0.0.0.0	p58-sign-va.tiktokcdn.com
+0.0.0.0	webcast16-ws-useast2a.tiktok.com
+0.0.0.0	starling-va.tiktokv.com
+0.0.0.0	webcast.tiktok.com.ttdns2.com
+0.0.0.0	sf-static.tiktokcdn.com
