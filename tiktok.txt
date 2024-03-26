@@ -6238,3 +6238,4 @@
 0.0.0.0	starling-va.tiktokv.com
 0.0.0.0	webcast.tiktok.com.ttdns2.com
 0.0.0.0	sf-static.tiktokcdn.com
+0.0.0.0	v19-webapp-prime.tiktok.com
