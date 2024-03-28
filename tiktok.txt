@@ -6239,3 +6239,5 @@
 0.0.0.0	webcast.tiktok.com.ttdns2.com
 0.0.0.0	sf-static.tiktokcdn.com
 0.0.0.0	v19-webapp-prime.tiktok.com
+0.0.0.0	pull-f5-sg01.tiktokcdn.com.c.bytefcdn-oversea.com
+0.0.0.0	pull-flv-l16-va01.tiktokcdn.com.atomile.com
