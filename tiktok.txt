@@ -6319,3 +6319,12 @@
 0.0.0.0	p77-d1-sign-sg.tiktokcdn.com
 0.0.0.0	p77-aimg-va.tiktokcdn.com
 0.0.0.0	pull-hls-l77-admin-sg01.tiktokcdn.com
+0.0.0.0	pull-q5-sg01.ttlivecdn.com
+0.0.0.0	pull-q5-va01.ttlivecdn.com.c.bytefcdn-oversea.com
+0.0.0.0	pull-f5-gcp01.ttlivecdn.com.c.bytefcdn-oversea.com
+0.0.0.0	pull-w5-va01.ttlivecdn.com
+0.0.0.0	pull-w5-va01.ttlivecdn.com.c.bytefcdn-oversea.com
+0.0.0.0	pull-f5-sg01.ttlivecdn.com.c.bytefcdn-oversea.com
+0.0.0.0	pull-f5-va01.ttlivecdn.com.c.bytefcdn-oversea.com
+0.0.0.0	pull-w5-sg01.ttlivecdn.com
+0.0.0.0	pull-q5-va01.ttlivecdn.com
