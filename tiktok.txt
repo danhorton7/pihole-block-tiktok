@@ -6347,3 +6347,9 @@
 0.0.0.0	api16-normal-useast5.tiktokv.us
 0.0.0.0	mssdk-boot.tiktokv.com
 0.0.0.0	mssdk-va.tiktok.com.ttdns2.com
+0.0.0.0	pull-flv-w77-sg01.eu.tiktokcdn.com
+0.0.0.0	pull-c5-gcp01.fcdn.eu.tiktokcdn.com
+0.0.0.0	pull-flv-w77-va01.eu.tiktokcdn.com
+0.0.0.0	pull-flv-o77-sg01.eu.tiktokcdn.com
+0.0.0.0	pull-c5-gcp01.fcdn.eu.tiktokcdn.com.c.bytefcdn-ttpeu.com
+0.0.0.0	pull-flv-o77-va01.eu.tiktokcdn.com
