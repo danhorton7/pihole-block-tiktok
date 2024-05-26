@@ -6353,3 +6353,6 @@
 0.0.0.0	pull-flv-o77-sg01.eu.tiktokcdn.com
 0.0.0.0	pull-c5-gcp01.fcdn.eu.tiktokcdn.com.c.bytefcdn-ttpeu.com
 0.0.0.0	pull-flv-o77-va01.eu.tiktokcdn.com
+0.0.0.0	analytics-i18n.tiktok.com
+0.0.0.0	v39-lhr.tiktokcdn.com
+0.0.0.0	lf16-tiktok-im-scp.tiktokcdn.com
