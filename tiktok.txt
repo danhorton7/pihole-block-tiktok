@@ -6356,3 +6356,8 @@
 0.0.0.0	analytics-i18n.tiktok.com
 0.0.0.0	v39-lhr.tiktokcdn.com
 0.0.0.0	lf16-tiktok-im-scp.tiktokcdn.com
+0.0.0.0	location-v6-i18n.tiktokv.com.ttdns3.com
+0.0.0.0	webcast31-normal-useast2a.tiktokv.com
+0.0.0.0	analytics-ipv6.tiktokw.us
+0.0.0.0	pitaya.tiktokv.com.ttdns2.com
+0.0.0.0	p19-push-sign-useast2a.tiktokcdn-eu.com
