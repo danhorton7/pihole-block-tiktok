@@ -6361,3 +6361,6 @@
 0.0.0.0	analytics-ipv6.tiktokw.us
 0.0.0.0	pitaya.tiktokv.com.ttdns2.com
 0.0.0.0	p19-push-sign-useast2a.tiktokcdn-eu.com
+0.0.0.0	ad-instantpage-i18n.tiktokv.com
+0.0.0.0	api31-core.tiktokv.com
+0.0.0.0	libraweb.tiktokw.eu.ttdns3.com
