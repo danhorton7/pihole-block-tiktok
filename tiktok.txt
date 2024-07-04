@@ -6364,3 +6364,11 @@
 0.0.0.0	ad-instantpage-i18n.tiktokv.com
 0.0.0.0	api31-core.tiktokv.com
 0.0.0.0	libraweb.tiktokw.eu.ttdns3.com
+0.0.0.0	toblog.tobsnssdk.com.ttdns2.com
+0.0.0.0	ssdk-sg.pangle.io.ttdns2.com
+0.0.0.0	api32-normal-useast2a.tiktokv.com
+0.0.0.0	p16-rc-captcha-useast2a.tiktokcdn-eu.com
+0.0.0.0	tos-quic-ams2a.tiktokcdn.com
+0.0.0.0	search32-normal-useast2a.tiktokv.com
+0.0.0.0	api32-core-useast2a.tiktokv.com
+0.0.0.0	webcast32-normal-useast2a.tiktokv.com
