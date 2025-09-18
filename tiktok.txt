@@ -6652,3 +6652,17 @@
 0.0.0.0	pull-g5-tt04.tiktokcdn.com.c.bytefcdn-oversea.com
 0.0.0.0	p16-common-sign-useastred.tiktokcdn-eu.com
 0.0.0.0	rc-verification16-normal-no1a.tiktokv.eu
+0.0.0.0	activity-ttp2.tiktokw.eu
+0.0.0.0	p16-linkmic-img.tiktokcdn-us.com
+0.0.0.0	p16-oec-ttp.tiktokcdn-us.com
+0.0.0.0	log32-normal-no1a.tiktokv.eu
+0.0.0.0	sf-ssp.tiktokcdn-eu.com
+0.0.0.0	origin.image-cache-clover.useastred.tiktoklb.eu
+0.0.0.0	oec32-normal-no1a.tiktokv.eu
+0.0.0.0	api16-access-ttp.tiktokpangle.us
+0.0.0.0	lf-static.tiktokpangle-cdn-us.com
+0.0.0.0	tnc16-normal-useastred.tiktokv.eu
+0.0.0.0	sf-ssp.tiktokcdn-eu.com.ttdns3.com
+0.0.0.0	im-image.tiktokv.com
+0.0.0.0	p19-vod-sign-useast2a.tiktokcdn-eu.com
+0.0.0.0	sf16-teko2.tiktokcdn-eu.com
